@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Sk8rfu/CasinoEconomyBot/blob/assets/banner.png?raw=true?raw=true">
+</p>
+
 # 🎰 CasinoEconomyBot
 Мощен Discord икономически бот с казино игри, PvP дуели, Mystery Box, кредити, банкa, VIP система, магазин, инвентар и още много.
 
