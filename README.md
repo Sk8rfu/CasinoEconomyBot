@@ -135,7 +135,12 @@ TOKEN=YOUR_BOT_TOKEN
 CLIENT_ID=YOUR_CLIENT_ID
 ```
 
-### 4️⃣ Стартирай бота
+### 4️⃣ Регистрирай Slash командите
+```bash
+node deploy-commands.js
+```
+
+### 5️⃣ Стартирай бота
 ```bash
 node index.js
 ```
