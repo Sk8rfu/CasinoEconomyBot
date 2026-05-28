@@ -107,7 +107,7 @@
 
 ---
 
-### ℹ Информация
+### 🧾 Информация
 - /about  
 
 ---
@@ -116,7 +116,7 @@
 
 ### 1️⃣ Клонирай проекта
 ```bash
-git clone https://github.com/USERNAME/CasinoEconomyBot.git
+git clone https://github.com/Sk8rfu/CasinoEconomyBot.git
 cd CasinoEconomyBot
 ```
 
