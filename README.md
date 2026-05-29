@@ -131,7 +131,7 @@ npm install
 
 ### 3️⃣ Създай `.env` файл
 ```env
-TOKEN=YOUR_BOT_TOKEN
+DISCORD_TOKEN=YOUR_BOT_TOKEN
 CLIENT_ID=YOUR_CLIENT_ID
 ```
 
